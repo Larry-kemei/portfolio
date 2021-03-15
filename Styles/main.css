@@ -1,0 +1,40 @@
+/*******************************
+*main css file for webportfolio*
+*created Kiprotich Hillary     *
+*On March 2021                 *
+*******************************/    
+p{
+  color:rgb(44, 14, 14);
+  background-color:#cdf7cd;
+}    
+q{
+  background-color:none;
+  color:whitesmoke;
+}    
+nav{
+  background-color: #2b8003ec;
+  color: rgb(48, 23, 6);
+}     
+main{
+  background-color: #d1eba2;
+  url(../images/BG.jpg")no-repeat;
+  
+}    
+footer{
+  background-color: #2b8003ec;
+  color:whitesmoke;
+}              
+nav{
+  color: rgb(49, 24, 6);
+}                                                                    
+body{
+  font-family: "Open sans",sans-serif;
+  font-size: 0.75rem;
+}
+a:hover{
+  color:red;
+}
+a{
+  color:rgb(233, 241, 109);
+  text-decoration: none;
+}
